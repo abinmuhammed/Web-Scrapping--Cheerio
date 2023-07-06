@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.523e53f8.css",
-    "main.js": "/static/js/main.f5117c4a.js",
+    "main.js": "/static/js/main.e1c5506e.js",
     "static/media/Black Ink Background Wallpaper Image For Free Download - Pngtree.jpeg": "/static/media/Black Ink Background Wallpaper Image For Free Download - Pngtree.b527d22ebcc339f60bdf.jpeg",
     "index.html": "/index.html",
     "main.523e53f8.css.map": "/static/css/main.523e53f8.css.map",
-    "main.f5117c4a.js.map": "/static/js/main.f5117c4a.js.map"
+    "main.e1c5506e.js.map": "/static/js/main.e1c5506e.js.map"
   },
   "entrypoints": [
     "static/css/main.523e53f8.css",
-    "static/js/main.f5117c4a.js"
+    "static/js/main.e1c5506e.js"
   ]
 }
