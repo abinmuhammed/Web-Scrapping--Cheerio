@@ -17,6 +17,7 @@ check the word count of the website.
 - The word count will be displayed in tables on the website.
 - All the previously searched domains will be available in the table.
 - The user can mark a domain as a favourite or remove it from the table.
+- Error Handling 
 
 
 ## Development Setup
@@ -25,7 +26,7 @@ To set up the backend codebase for development, follow these steps:
 
 1. Clone the repository.
 ```shell
-    git clone https://github.com/abinmuhammed/enverx-be-developer-assignment.git
+    git clone https://github.com/abinmuhammed/Web-Scrapping--Cheerio.git
 ```
 2. Navigate to the backend directory.
 3. Install the required dependencies.
